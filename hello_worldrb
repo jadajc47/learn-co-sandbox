@@ -1,0 +1,10 @@
+name = "love"
+def greet_user(name)
+  puts "Hello, #{name}"
+end
+
+
+
+10.times do 
+  puts "Hi! Welcome to my very repetitive program"
+end
